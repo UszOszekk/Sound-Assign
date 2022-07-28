@@ -1,0 +1,16 @@
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\bin\Debug\Directory Sound Player Assigner.exe.config
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\bin\Debug\Directory Sound Player Assigner.exe
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\bin\Debug\Directory Sound Player Assigner.pdb
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory Sound Player Assigner.csprojAssemblyReference.cache
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory_Sound_Player_Assigner.Properties.Resources.resources
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory Sound Player Assigner.csproj.GenerateResource.cache
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory Sound Player Assigner.csproj.CoreCompileInputs.cache
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory Sound Player Assigner.exe
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory Sound Player Assigner.pdb
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory_Sound_Player_Assigner.Selector.resources
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\bin\Debug\Interop.WMPLib.dll
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\bin\Debug\AxInterop.WMPLib.dll
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Interop.WMPLib.dll
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\AxInterop.WMPLib.dll
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory Sound Player Assigner.csproj.ResolveComReference.cache
+D:\Teleturniej XD\Dźwięk\Directory Sound Player Assigner\Directory Sound Player Assigner\obj\Debug\Directory_Sound_Player_Assigner.Form2.resources
